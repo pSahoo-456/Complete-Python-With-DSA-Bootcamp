@@ -18,7 +18,7 @@ Welcome to the **Complete Python with DSA Bootcamp** repository! This repository
 
 
 ## 🚀 Get Started  
-Clone the repository and start coding!  
+Clone the repository and start coding! 
 ```sh
 git clone https://github.com/pSahoo-456/Complete-Python-With-DSA-Bootcamp.git
 cd Complete-Python-With-DSA-Bootcamp

@@ -12,7 +12,7 @@ Welcome to the **Complete Python with DSA Bootcamp** repository! This repository
 🔹 **Data Structures** – Arrays, Lists, Stacks, Queues, Linked Lists, Trees, Graphs, and more.  
 🔹 **Algorithms** – Sorting (Quick Sort, Merge Sort), Searching (Binary Search), Recursion, and Dynamic Programming.  
 🔹 **Time & Space Complexity** – Analyzing algorithm efficiency for optimal problem-solving.  
-🔹 **Hands-on Projects** – Real-world applications to reinforce learning.  
+🔹 **Hands-on Projects** – Real-world applications.
 
 
 
